@@ -129,3 +129,5 @@ function canJump(nums: number[]): boolean {
 //JM = 1
 //NI = 2
 console.log(canJump([1, 2, 3]));
+
+//add something here
