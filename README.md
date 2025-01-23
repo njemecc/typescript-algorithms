@@ -1,1 +1,1 @@
-﻿# typescript-algorithms !
+﻿# typescript-algorithms 
